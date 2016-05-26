@@ -18,7 +18,9 @@
         "http://*/*",
         "https://*/*"
       ],
-      "css": [ ],
+      "css": [
+        "image-location.css"
+       ],
       "js": [
         "exif/exif.js",
       ]
