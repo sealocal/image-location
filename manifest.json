@@ -8,7 +8,7 @@
   ],
 
   "background": {
-    "scripts": [ ],
+    "scripts": [ "background.js" ],
     "persistent": false
   },
 
@@ -23,6 +23,7 @@
        ],
       "js": [
         "exif/exif.js",
+        "image-location.js"
       ]
     }
   ],
