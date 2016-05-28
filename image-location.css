@@ -1,3 +1,11 @@
 body img {
     border: red solid 1px;
 }
+
+body div.image-location-container img {
+    border: yellow solid 1px;
+}
+
+body div.image-location-container img.image-location {
+    border: green solid 1px;
+}
